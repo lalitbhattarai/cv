@@ -1,2 +1,2 @@
 # cv
-perosnal cv  using HTML and CSS
+personal cv  using HTML and CSS
